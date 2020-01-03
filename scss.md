@@ -1,5 +1,5 @@
 scss使用easy sass  
-在.vscode文件夹中创建setting.json  
+在.vscode文件夹中创建settings.json  
 添加配置  
 ```
 {
